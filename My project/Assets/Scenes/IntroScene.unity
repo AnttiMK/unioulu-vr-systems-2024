@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scene 1
+  m_text: Ponzi
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 230134db62c45bf40aa4793df842d178, type: 2}
   m_sharedMaterial: {fileID: 5420066216609928602, guid: 230134db62c45bf40aa4793df842d178, type: 2}
@@ -203,8 +203,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
@@ -1768,7 +1768,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1367081165}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: PlayLevelOne
+        m_MethodName: PlayLevel3
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2064,7 +2064,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scene 2
+  m_text: Barberpole
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 230134db62c45bf40aa4793df842d178, type: 2}
   m_sharedMaterial: {fileID: 5420066216609928602, guid: 230134db62c45bf40aa4793df842d178, type: 2}
@@ -2091,8 +2091,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
@@ -2200,7 +2200,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scene 4
+  m_text: Unplayable
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 230134db62c45bf40aa4793df842d178, type: 2}
   m_sharedMaterial: {fileID: 5420066216609928602, guid: 230134db62c45bf40aa4793df842d178, type: 2}
@@ -2227,8 +2227,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
@@ -2509,7 +2509,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1367081165}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: PlayLevelTwo
+        m_MethodName: PlayLevel4
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2614,7 +2614,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Scene 3
+  m_text: Stereo discrepancy
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 230134db62c45bf40aa4793df842d178, type: 2}
   m_sharedMaterial: {fileID: 5420066216609928602, guid: 230134db62c45bf40aa4793df842d178, type: 2}
@@ -2641,8 +2641,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
