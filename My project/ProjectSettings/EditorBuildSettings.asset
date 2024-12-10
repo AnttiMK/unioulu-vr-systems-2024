@@ -9,11 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/IntroScene.unity
     guid: 25c56009c186bba4aae68a4b299be5a2
   - enabled: 1
-    path: Assets/Scenes/Scene1.unity
+    path: Assets/Scenes/Ponzo.unity
     guid: 594da9eac4a488a479b252ff922516d9
   - enabled: 1
     path: Assets/Scenes/barberpole.unity
     guid: 31843f759d4c51f47878967e15d074af
+  - enabled: 1
+    path: Assets/Scenes/Unplayable.unity
+    guid: da9c66ed8c862274790cc095caf24e73
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 631b2952228105b4baa29ffff872cac0, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 043ee777071970a4caed088fc8543ac5, type: 2}
