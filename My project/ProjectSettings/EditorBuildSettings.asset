@@ -15,9 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/barberpole.unity
     guid: 31843f759d4c51f47878967e15d074af
   - enabled: 1
-    path: Assets/Scenes/stereoDiscrepancy.unity
-    guid: dbf90fe36c55fcf45ad1022ce2861c86
-  - enabled: 1
     path: Assets/Scenes/Unplayable.unity
     guid: da9c66ed8c862274790cc095caf24e73
   m_configObjects:
