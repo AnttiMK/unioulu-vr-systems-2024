@@ -48,7 +48,10 @@ public class MainMenu : MonoBehaviour
     // Update is called once per frame
     public void Quit()
     {
-        Application.Quit();
-        Debug.Log("Player Has Quit The Game");
+        #if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            Application.Quit();
+        #endif
     }
 }
